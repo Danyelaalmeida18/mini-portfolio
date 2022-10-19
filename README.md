@@ -1,2 +1,0 @@
-# mini-portfolio
-commit inicial
